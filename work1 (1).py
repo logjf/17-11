@@ -1,0 +1,11 @@
+print("Hello6/9")
+print("Sakdiphat")
+print("jakkaphak")
+print("age",17,"year")
+print("height",164,"cm")
+print("weight",84,"kg")
+print("วิชาที่ชอบ","อังกฤษ")
+print("วิชาที่ไม่ชอบ","คณิตศาสตร์")
+print("อาชีพในฝัน","เชฟ")
+print("อาหารที่ชอบ","ปลาดิบ")
+# ศักดิพัฒน์ จักกะพาก เลขที่ 32 6/9
